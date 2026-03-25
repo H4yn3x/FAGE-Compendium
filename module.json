@@ -5,7 +5,7 @@
   "version": "1.0",
   "url": "https://github.com/H4yn3x/FAGE-Compendium",
   "manifest": "https://raw.githubusercontent.com/H4yn3x/FAGE-Compendium/main/module.json",
-  "download": "https://raw.githubusercontent.com/H4yn3x/FAGE-Compendium/main/fantasy-age-2nd-edition.zip",
+  "download": "https://github.com/H4yn3x/FAGE-Compendium/raw/main/fantasy-age-2nd-edition.zip",
   "compatibility": {
     "minimum": "0.6.0",
     "verified": "12"
